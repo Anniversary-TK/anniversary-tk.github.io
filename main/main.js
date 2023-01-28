@@ -67,7 +67,7 @@ function OnCreate() {
     main_lay.addChild(card1);
     
     second = widget.Image();
-    second.getImage("/main/asset/img/second.jpg");
+    second.getImage("/asset/img/second.jpg");
     second.setWidth(320);
     second.setHeight(180);
     second.setBorderRadius(24);
